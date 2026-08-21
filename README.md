@@ -25,10 +25,10 @@ web scraping · PWAs · deploying and running services 24/7.
 
 ### 📌 Featured projects
 
-- 🐸 **[vacancy-finder-bot](https://github.com/Anatolli1989/vacancy-finder-bot)** — a
+- 🐸 **[vacancy-finder-bot](https://github.com/Anatolii198/vacancy-finder-bot)** — a
   self-hosted Telegram bot that finds freelance orders across public channels and job
   boards, filters them by keywords and routes them by category. Pure Python, runs 24/7.
-- 🚗 **[Fifth Wheel](https://anatolli1989.github.io/pyatoe-koleso/)** — an installable
+- 🚗 **[Fifth Wheel](https://anatolii198.github.io/pyatoe-koleso/)** — an installable
   PWA (works offline, adds to the home screen like a native app). *Live demo.*
 - 📊 **Business dashboards &amp; more bots** — coming to this profile.
 
