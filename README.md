@@ -28,6 +28,9 @@ web scraping · PWAs · deploying and running services 24/7.
 - 🐸 **[vacancy-finder-bot](https://github.com/Anatolii198/vacancy-finder-bot)** — a
   self-hosted Telegram bot that finds freelance orders across public channels and job
   boards, filters them by keywords and routes them by category. Pure Python, runs 24/7.
+- 🌍 **[Earthquake Dashboard](https://anatolii198.github.io/earthquake-dashboard/)** — a
+  real-time dashboard of worldwide earthquakes (live USGS data) on an interactive SVG
+  world map with tectonic plates, rankings and history. *Live demo.*
 - 🚗 **[Fifth Wheel](https://anatolii198.github.io/pyatoe-koleso/)** — an installable
   PWA (works offline, adds to the home screen like a native app). *Live demo.*
 - 📊 **Business dashboards &amp; more bots** — coming to this profile.
