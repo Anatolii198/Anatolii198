@@ -30,7 +30,7 @@ landing pages &amp; web apps · Odoo / ERP · web scraping · PWAs · deploying 
 - 🐸 **[vacancy-finder-bot](https://github.com/Anatolii198/vacancy-finder-bot)** — a
   self-hosted Telegram bot that finds freelance orders across channels and job boards,
   filters them by keywords and routes them by category. Pure Python, runs 24/7.
-- 💼 **[Праця — job board](https://anatolii198.github.io/pratsia-jobboard/)** — a functional
+- 💼 **[Pratsia — job board](https://anatolii198.github.io/pratsia-jobboard/)** — a functional
   job-search platform (Work.ua-style): live search &amp; filters, vacancy pages, a
   post-a-vacancy form and a personal cabinet. *Live demo.*
 - 🚀 **[Orbita — lead-gen landing](https://anatolii198.github.io/orbita-landing/)** — a
