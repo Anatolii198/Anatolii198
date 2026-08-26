@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Anatolii 👋</h1>
 <h3 align="center">Data Analyst &amp; Automation Developer</h3>
-<p align="center">Dashboards &amp; BI · Telegram bots · PWAs · web analytics &amp; automation</p>
+<p align="center">Dashboards &amp; BI · Telegram bots · Web apps &amp; landings · Odoo / ERP · automation</p>
 
 ---
 
@@ -19,21 +19,30 @@ solutions, real running products, and results owners can see.
 ![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?logo=telegram&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
 **Focus areas:** data visualization · BI dashboards · Telegram bots &amp; automation ·
-web scraping · PWAs · deploying and running services 24/7.
+landing pages &amp; web apps · Odoo / ERP · web scraping · PWAs · deploying services 24/7.
 
 ### 📌 Featured projects
 
 - 🐸 **[vacancy-finder-bot](https://github.com/Anatolii198/vacancy-finder-bot)** — a
-  self-hosted Telegram bot that finds freelance orders across public channels and job
-  boards, filters them by keywords and routes them by category. Pure Python, runs 24/7.
+  self-hosted Telegram bot that finds freelance orders across channels and job boards,
+  filters them by keywords and routes them by category. Pure Python, runs 24/7.
+- 💼 **[Праця — job board](https://anatolii198.github.io/pratsia-jobboard/)** — a functional
+  job-search platform (Work.ua-style): live search &amp; filters, vacancy pages, a
+  post-a-vacancy form and a personal cabinet. *Live demo.*
+- 🚀 **[Orbita — lead-gen landing](https://anatolii198.github.io/orbita-landing/)** — a
+  bilingual (UA/RU), fully responsive agency landing with a lead form and i18n. *Live demo.*
 - 🌍 **[Earthquake Dashboard](https://anatolii198.github.io/earthquake-dashboard/)** — a
   real-time dashboard of worldwide earthquakes (live USGS data) on an interactive SVG
-  world map with tectonic plates, rankings and history. *Live demo.*
-- 🚗 **[Fifth Wheel](https://anatolii198.github.io/pyatoe-koleso/)** — an installable
-  PWA (works offline, adds to the home screen like a native app). *Live demo.*
-- 📊 **Business dashboards &amp; more bots** — coming to this profile.
+  world map with tectonic plates and rankings. *Live demo.*
+- 🧩 **[odoo-wedding-addons](https://github.com/Anatolii198/odoo-wedding-addons)** — two
+  custom **Odoo 18** modules (Python + XML) for a wholesale ERP: order production stages
+  and a quarter-grouped accounting-document register.
+- 🚗 **[Fifth Wheel](https://anatolii198.github.io/pyatoe-koleso/)** — an installable PWA
+  (works offline, adds to the home screen like a native app). *Live demo.*
 
 ### 📫 Get in touch
 
