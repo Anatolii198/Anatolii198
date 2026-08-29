@@ -38,6 +38,12 @@ landing pages &amp; web apps · Odoo / ERP · web scraping · PWAs · deploying 
 - 🌍 **[Earthquake Dashboard](https://anatolii198.github.io/earthquake-dashboard/)** — a
   real-time dashboard of worldwide earthquakes (live USGS data) on an interactive SVG
   world map with tectonic plates and rankings. *Live demo.*
+- ⚽ **[Football Live](https://anatolii198.github.io/football-dashboard/)** — a real-time
+  dashboard for Europe's top-5 leagues: standings, results, fixtures (Warsaw kick-off times)
+  and click-through head-to-head history, all pulled live from a public API. *Live demo.*
+- 🪙 **[Crypto Live](https://anatolii198.github.io/crypto-dashboard/)** — a real-time crypto
+  market dashboard: top-50 prices with 1h / 24h / 7d change, market cap, BTC/ETH dominance
+  and 7-day sparklines, in USD / EUR / UAH. *Live demo.*
 - 🧩 **[odoo-wedding-addons](https://github.com/Anatolii198/odoo-wedding-addons)** — two
   custom **Odoo 18** modules (Python + XML) for a wholesale ERP: order production stages
   and a quarter-grouped accounting-document register.
