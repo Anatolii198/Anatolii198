@@ -44,6 +44,10 @@ landing pages &amp; web apps · Odoo / ERP · web scraping · PWAs · deploying 
 - 🪙 **[Crypto Live](https://anatolii198.github.io/crypto-dashboard/)** — a real-time crypto
   market dashboard: top-50 prices with 1h / 24h / 7d change, market cap, BTC/ETH dominance
   and 7-day sparklines, in USD / EUR / UAH. *Live demo.*
+- 🩺 **[MedBaza — doctors database](https://anatolii198.github.io/doctors-db/)** — a
+  data-collection product demo: a searchable database of doctors with cascading filters
+  (country → city → specialty → adult/child), full contact records, spoken languages and a
+  data-quality panel (e-mail coverage, zero duplicates). *Live demo.*
 - 🧩 **[odoo-wedding-addons](https://github.com/Anatolii198/odoo-wedding-addons)** — two
   custom **Odoo 18** modules (Python + XML) for a wholesale ERP: order production stages
   and a quarter-grouped accounting-document register.
