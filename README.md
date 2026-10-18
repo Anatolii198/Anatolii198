@@ -25,6 +25,27 @@ solutions, real running products, and results owners can see.
 **Focus areas:** data visualization · BI dashboards · Telegram bots &amp; automation ·
 landing pages &amp; web apps · Odoo / ERP · web scraping · PWAs · deploying services 24/7.
 
+### 🧱 Templates I sell
+
+Hand-coded HTML templates — no framework, no build step. Each one ships with a free cut
+you can clone and run right now.
+
+- 📊 **Mesa — Restaurant Analytics Dashboard** · **$29** — twelve pages of restaurant
+  analytics: revenue, menu, orders, delivery, P&amp;L and stock. Eleven chart types written
+  from scratch in SVG — no Chart.js, no CDN, works offline. Dark and light.
+  [Live demo](https://mesa-dashboard-demo.netlify.app) ·
+  [free 2-page cut](https://github.com/Anatolii198/mesa-lite) ·
+  [get it](https://payhip.com/b/C8O71)
+- 🎨 **Lumen Studio — Agency &amp; Startup Website** · **$19** — a ten-page studio site:
+  work, services, case study, pricing with FAQ, journal and contact. Light and dark, fully
+  responsive.
+  [Live demo](https://lumen-studio-template.netlify.app) ·
+  [free 3-page cut](https://github.com/Anatolii198/lumen-lite) ·
+  [get it](https://payhip.com/b/UhYwk)
+
+Both are in my store: **[payhip.com/NovaWebDesign](https://payhip.com/NovaWebDesign)**.
+Need one filled with your own data or rebranded? That part I do as a paid job — just ask.
+
 ### 📌 Featured projects
 
 - 🐸 **[vacancy-finder-bot](https://github.com/Anatolii198/vacancy-finder-bot)** — a
